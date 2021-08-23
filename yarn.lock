@@ -1197,7 +1197,7 @@
   optionalDependencies:
     "@ledgerhq/hw-transport-node-hid" "^5.10.0"
 
-"@binance-chain/tx@0.7.3-beta.75aaa44.56":
+"@binance-chain/tx@0.7.3-beta.75aaa44.56+75aaa44":
   version "0.7.3-beta.75aaa44.56"
   resolved "https://registry.yarnpkg.com/@binance-chain/tx/-/tx-0.7.3-beta.75aaa44.56.tgz#8dbbc8b98c9f8093354a78eee30581dd8f6b80fe"
   integrity sha512-xbPvqDwVtLciPhw9wbwQIHyZaUe74NYRk1jReCrk3M2U5y4B262XU+HCjRFHWWkBXs0xa4BYd73QziyElrW4kw==
